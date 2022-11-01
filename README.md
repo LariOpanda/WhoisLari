@@ -7,7 +7,9 @@
 - ♥️ = ⚡ ☕ 🎼  🐾  🐈  📺  🌻 
 
 
-## Oiii Eu sou a Larissa, tenho 35 e estou buscando a mudança de área profissional. Atuo na área de Recursos Humanos, mas no momento estou me dedicando somente aos estudos. Me identifiquei com Front-end, e estou estudando Javascript.
+## Oiii Eu sou a Larissa :)
+
+
 <div align="center">
   <a href="https://github.com/WhoisLari">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WhoisLari&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
