@@ -1,7 +1,7 @@
 ### Hello ˆˆ 👋
 
 
-- 💬 Email: larissaolive2020@gmail.com
+- 💬 Email: larissamayara.ro@gmail.com
 
 
 - ♥️ = ⚡ ☕ 🎼  🐾  🐈  📺  🌻 
